@@ -16,4 +16,7 @@ sudo ./cm selenoid start <br />
 sudo ./cm selenoid-ui start
 
 # Run Project
-mvn clean test
+mvn clean test <br />
+
+allure reports: <br />
+mvn allure:serve
