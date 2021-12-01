@@ -2,7 +2,7 @@
 Paralell Test Execution with Selenoid
 
 # Selenoid
-install selenoid 
+install selenoid <br />
 https://aerokube.com/selenoid/latest/
 
 # Run Selenoid:
