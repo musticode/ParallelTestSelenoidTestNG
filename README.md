@@ -5,9 +5,9 @@ Paralell Test Execution with Selenoid
 install selenoid 
 https://aerokube.com/selenoid/latest/
 
-# run:
-sudo ./cm selenoid start 
+# Run Selenoid:
+sudo ./cm selenoid start <br />
 sudo ./cm selenoid-ui start
 
-# run project
+# Run Project
 mvn clean test
